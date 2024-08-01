@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.lukount.app_lukountech",
-               "sha256_cert_fingerprints": ["1C:EA:AB:B0:26:19:15:6B:72:DE:C7:E5:D8:15:0F:DD:C9:1C:AC:D4:9B:C0:09:BB:49:01:01:52:89:21:39:FD"] }
+               "sha256_cert_fingerprints": ["66:48:9D:2F:2F:D5:75:30:FF:F2:D0:04:2D:50:7D:1F:94:0A:A1:B3:65:53:5F:D5:94:EB:70:B5:83:B0:95:D7"] }
 }]
