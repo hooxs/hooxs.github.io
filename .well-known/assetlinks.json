@@ -5,9 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.lukount.app_lukountech",
+      "package_name": "com.bamma.app.bamma",
       "sha256_cert_fingerprints": [
-        "1C:EA:AB:B0:26:19:15:6B:72:DE:C7:E5:D8:15:0F:DD:C9:1C:AC:D4:9B:C0:09:BB:49:01:01:52:89:21:39:FD",
+        "B3:44:48:54:D6:35:14:86:C3:2C:3A:68:AB:92:CB:42:6E:CE:52:C9:66:91:2B:FF:AA:B5:6A:5F:62:D1:59:FB",
         "5B:FA:F3:8C:F2:16:37:D6:BA:A8:5A:6F:B9:71:10:0A:AD:3B:13:E1:2F:C0:0E:95:98:F0:45:C2:47:16:D0:98"
       ]
     }
