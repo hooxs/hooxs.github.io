@@ -1,15 +1,6 @@
 {
   "applinks": {
     "apps": [],
-    "details": [
-      {
-        "appIDs": [
-          "W36DU39832.com.lukount.appLukoun-tech"
-        ],
-        "paths": [
-          "*"
-        ]
-      }
-    ]
+    "details": []
   }
 }
