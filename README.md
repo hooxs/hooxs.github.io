@@ -12,6 +12,12 @@ Rutas de enlaces profundos:
 - `/minido/reset-password?token=...`
 - `/minido/family-invitation?token=...`
 
+Documentos legales:
+
+- `/legal/`
+- `/legal/terminos-y-condiciones-mi-nido.pdf`
+- `/legal/politica-tratamiento-datos-mi-nido.pdf`
+
 ## Android
 
 `/.well-known/assetlinks.json` debe contener:
