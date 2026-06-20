@@ -16,7 +16,9 @@ Documentos legales:
 
 - `/legal/`
 - `/legal/terminos-y-condiciones-mi-nido.pdf`
+- `/legal/terminos-y-condiciones-mi-nido.md`
 - `/legal/politica-tratamiento-datos-mi-nido.pdf`
+- `/legal/politica-tratamiento-datos-mi-nido.md`
 
 ## Android
 
